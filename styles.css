@@ -24,6 +24,12 @@ nav a {
   padding: 1em; 
 }
 
+.responsive {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
+
 main {
   background-color: white;
   color: black;
